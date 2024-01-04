@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2af8892-3211-456f-bdba-f30f1858d455" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PostService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../publicpostapp/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/main/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/main/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/soulwarm/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/soulwarm/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/soulwarm/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/soulwarm/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/django-admin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/django-admin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/pip3.11" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/pip3.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/python3.11" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/python3.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/sqlformat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/bin/sqlformat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/Django-5.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/Django-5.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/asgiref-3.7.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/asgiref-3.7.2.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/pip-23.3.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/pip-23.3.2.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/pkg_resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools-68.1.2.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools-68.1.2.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools-68.1.2.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools-68.1.2.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools-68.1.2.dist-info/REQUESTED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools-68.1.2.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools-68.1.2.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools-68.1.2.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/_entry_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/_entry_points.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/_imp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/_imp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/_importlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/_importlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/archive_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/archive_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/build_meta.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/build_meta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/alias.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/alias.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/bdist_egg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/bdist_rpm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/bdist_rpm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/build_clib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/build_clib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/build_ext.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/build_ext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/build_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/build_py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/develop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/develop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/dist_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/dist_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/easy_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/easy_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/editable_wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/editable_wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/egg_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/egg_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/install_egg_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/install_egg_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/install_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/install_lib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/install_scripts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/install_scripts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/rotate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/saveopts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/saveopts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/sdist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/sdist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/setopt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/setopt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/upload_docs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/command/upload_docs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/config/_apply_pyprojecttoml.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/config/_apply_pyprojecttoml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/config/_validate_pyproject/fastjsonschema_validations.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/config/_validate_pyproject/fastjsonschema_validations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/config/_validate_pyproject/formats.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/config/_validate_pyproject/formats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/config/expand.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/config/expand.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/config/pyprojecttoml.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/config/pyprojecttoml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/dep_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/dep_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/depends.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/depends.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/discovery.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/discovery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/dist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/dist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/extern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/extern/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/glob.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/glob.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/installer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/installer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/monkey.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/monkey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/msvc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/msvc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/namespaces.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/namespaces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/package_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/warnings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/warnings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/windows_support.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/setuptools/windows_support.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/sqlparse-0.4.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/lib/python3.11/site-packages/sqlparse-0.4.4.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoulWarm/backend/venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2aUT3JbMnx67IbSioP27rDSUdk1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kumar_air/FullstackProjects/ChatApp/publicposts/frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2af8892-3211-456f-bdba-f30f1858d455" name="Changes" comment="" />
+      <created>1704371958583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704371958583</updated>
+      <workItem from="1704371959894" duration="1249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
